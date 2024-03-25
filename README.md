@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am open to learn anything. 😄
+
 <!--
 **mijo22/mijo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
