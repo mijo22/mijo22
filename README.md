@@ -1,6 +1,6 @@
  Hi there 👋
 
-### I am open to learn anything and everything. 😄
+### I am open to learn anything and everything. 💻
 
 <!--
 **mijo22/mijo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
